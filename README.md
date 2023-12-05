@@ -13,3 +13,5 @@ The final website looks like below
 - Added web page title.
 - Added alt attributes to images to improve SEO.
 
+**Contributions**
+- Code Refactoring performed by Kanika Aggarwal
