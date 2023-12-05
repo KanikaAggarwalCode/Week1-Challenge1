@@ -2,7 +2,7 @@
 Week 1 Challenge Refactoring
 
 **Project Description**
-The marketing agency requires to improve the accessbility standards of the following webpage, so that the wwebsite rank improves in Google Search.
+The marketing agency requires to improve the accessbility standards of the following webpage, so that the website rank improves in Google Search.
 
 The final website looks like below
 ![image](https://github.com/KanikaAggarwalCode/Week1-Challenge1-CodeRefactoring/assets/151467793/96ec5f7e-8650-4655-8454-2b0009541bcc)
